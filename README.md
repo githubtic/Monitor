@@ -1,7 +1,8 @@
-# File Monitor Service:  Add a security Layer To your Project!!!!!
+# File Monitor Service: 
+
 A Monitor to watch who is working on your project and get updates and visibility for developers admins ,it adds a security layer. the goal is everything who touchs your project is monitored in a database
 # File Monitor Service
-
+ Add a security Layer To your Project!!!!!
 The **File Monitor Service** is a Windows service that monitors changes in a specific directory. It logs any modifications, creations, or deletions of files, and records detailed information about the process that made the changes, including the **IP Address** and **MAC Address** of the writer. It can optionally log changes to a database and handle backup scans to ensure no file changes are missed.
 
 ## Features
